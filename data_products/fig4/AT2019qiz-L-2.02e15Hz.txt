@@ -1,0 +1,2 @@
+#time(days),nu*L_nu(erg/s),err
+1620.173,5.054e+41,1.528e+40
